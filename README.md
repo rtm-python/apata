@@ -1,2 +1,2 @@
-# apata
-APATA - anonymous, encrypted and hidden communications without any trace
+# APATA
+_Anonymous, encrypted and hidden communications without any trace_
